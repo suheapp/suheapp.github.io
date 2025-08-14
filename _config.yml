@@ -47,7 +47,8 @@ defaults:
     values:
       permalink: /:basename
       layout: "page"
-      sidebar: main
+      # sidebar: main
+      sidebar: []
 
 plugins:
   - elixir-toolkit-theme-plugins
