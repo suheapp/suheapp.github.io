@@ -80,7 +80,7 @@ theme_variables:
   #   contributor-minitiles-page: Contributors
   toc:
     min_headings: 1
-    headings: 'h2'
+    headings: 'main h1'
   # topnav:
     # theme: light
     # brand_logo: assets/img/main_logo.svg
