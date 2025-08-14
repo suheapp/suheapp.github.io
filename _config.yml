@@ -78,9 +78,9 @@ theme_variables:
   #   resource-table-all-collapse: false
   #   affiliation-tiles-page: Affiliations
   #   contributor-minitiles-page: Contributors
-  # toc:
-  #   min_headings: 2
-  #   headings: 'h2'
+  toc:
+    min_headings: 1
+    headings: 'h2'
   # topnav:
     # theme: light
     # brand_logo: assets/img/main_logo.svg
