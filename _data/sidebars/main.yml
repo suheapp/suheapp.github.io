@@ -4,14 +4,10 @@
 subitems:
   - title: About
     subitems:
-      - title: About this theme
+      - title: Me
         url: /about
-      - title: ELIXIR resources
-        url: /elixir_resources
-      - title: Accessibility
-        url: /accessibility
-      - title: SEO
-        url: /seo
+      - title: Ideas
+        url: /ideas
   - title: Documentation
     subitems:
       - title: Getting started
