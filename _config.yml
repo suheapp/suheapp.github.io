@@ -99,3 +99,5 @@ theme_variables:
 #   repository_url: https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
 #   source:
 #     branch: main
+
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme
