@@ -80,9 +80,9 @@ theme_variables:
   #   contributor-minitiles-page: Contributors
   toc:
     min_headings: 1
-    headings: 'main h1'
-  # topnav:
-    # theme: light
+    headings: 'h1,h2'
+  topnav:
+    theme: light
     # brand_logo: assets/img/main_logo.svg
     # github: true
     # twitter: false
